@@ -1,5 +1,6 @@
 {
     "name"              :"TopItems",
+    "version"           :"1.0.1",
     "description"       :"Plugin to render a list of top items",
     "namespace"         :"TopItems",
     "author"            :"Plenty Tutorial",
